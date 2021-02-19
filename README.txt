@@ -1,0 +1,1 @@
+This script pulls cosponsor data from https://www.congress.gov/ and puts it into a .txt file
